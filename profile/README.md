@@ -40,8 +40,8 @@ At Web Informatics, we offer a wide range of IT solutions, including but not lim
 ## Contact Us
 We’re here to help with any of your IT needs. Get in touch with Web Informatics and let’s build the future of your business together!
 
-- Email: ```info@webinformatics.com```
-- Phone: ```+266 123 4567```
+- Email: ```mohaumoleli@gmail.com```
+- Phone: ```+266 5665 0459```
 - Location: ```Maseru, Lesotho``` (Remote services available globally)
 Follow us on social media for updates on our latest projects and services!
 
